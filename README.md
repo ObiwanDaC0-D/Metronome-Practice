@@ -1,2 +1,1 @@
-# Metronome
- Version 1
+# Metronome-Practice\n\nA standalone metronome, tuner, and passage-based practice lab for GitHub Pages.\n\nOpen **Practice Lab** from the metronome screen or navigate to `practice.html`.\n\n## Features\n- Original metronome and tuner retained in `index.html`\n- Instruments, compositions, and custom passages\n- Count-up and countdown practice timers\n- Per-session BPM, difficulty, mastery, notes, and repetitions\n- Passage-specific progress, history, and review suggestions\n- Local browser storage with JSON backup/restore and CSV export\n\n**Important:** Practice Lab uses localStorage in the current browser; export backups regularly. The practice timer and metronome are independent, and background audio or timing may be limited by iOS.\n
